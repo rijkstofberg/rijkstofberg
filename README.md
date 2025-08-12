@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m working at Helm Africa.
+### 🔭 I’m working at Capgemini Netherlands.
 
 <!--
 **rijkstofberg/rijkstofberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
